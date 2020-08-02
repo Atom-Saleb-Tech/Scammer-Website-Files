@@ -1,2 +1,2 @@
 # Information!
-The list of webshells where i found by scammers.
+The list of files where i found by scammers. (webshells, mail servers and etc. except scam files)
